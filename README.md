@@ -652,14 +652,16 @@ footer {
 
 
 ## OUTPUT:
+![alt text](<Screenshot (22).png>)
 
-![alt text](<hemu/restweb/Screenshot (22).png>)
-![alt text](<hemu/restweb/Screenshot (39).png>)
-![alt text](<hemu/restweb/Screenshot (40).png>)
-![alt text](<hemu/restweb/Screenshot (41).png>)
-![alt text](<hemu/restweb/Screenshot (42).png>)
-![alt text](<hemu/restweb/Screenshot (43).png>)
-![alt text](<hemu/restweb/Screenshot (44).png>)
+![alt text](<Screenshot (39).png>)
+
+![alt text](<Screenshot (40).png>)
+![alt text](<Screenshot (41).png>)
+
+![alt text](<Screenshot (42).png>)
+![alt text](<Screenshot (43).png>)
+![alt text](<Screenshot (44).png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
